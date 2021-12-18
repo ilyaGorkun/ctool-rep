@@ -1,5 +1,5 @@
 # ctool-rep
 
 
-Hello World!
-This repository was created to demonstrate the capability of the tool
+Helo World!
+This repasitory were create to demonstrate the capability of the tool
